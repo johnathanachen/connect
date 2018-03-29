@@ -17,7 +17,7 @@ pod install
 
 ## Built With
 
-* [User Defaults](https://github.com/radex/SwiftyUserDefaults - Storing Data
+* [User Defaults](https://github.com/radex/SwiftyUserDefaults) - Storing Data
 * [Rails](http://rubyonrails.org/) - The web framework used
 * [Amazon Web Sevices(S3)](aws.amazon.com) - Storing Data
 
